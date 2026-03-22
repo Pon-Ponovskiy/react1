@@ -21,5 +21,5 @@ function Counter(){
         </div>
     )
 }
-
+//поапрарпа
 export default Counter;
