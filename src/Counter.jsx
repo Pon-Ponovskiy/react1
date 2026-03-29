@@ -22,4 +22,5 @@ function Counter(){
     )
 }
 //поапрарпа
+//fffff
 export default Counter;
